@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "O bom e velho rock'n'roll",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": ".......da melhor qualidade",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Musica para alimentar a alma !!!!",
+          "url": "https://www.youtube.com/watch?v=iIHg1et1VfM"
+        },
+        {
+          "titulo": "Rush - Limeligth",
+          "url": "https://www.youtube.com/watch?v=kOAPd1kfPNk"
+        },
+        {
+          "titulo": "Rainbow - Long live rock and roll ",
+          "url": "https://www.youtube.com/watch?v=HDT_uqM1iqI"
+        },
+        {
+          "titulo": "Iron Maiden - The trooper ",
+          "url": "https://www.youtube.com/watch?v=ogsv6T_Pg3k"
+        },
+        {
+          "titulo": "Yes - Roundabout",
+          "url": "https://www.youtube.com/watch?v=kmZoQFYYx8U"
+        },
+        {
+          "titulo": "Led Zeppelin - Immigrant Song",
+          "url": "https://www.youtube.com/watch?v=zJfRY40uxhA"
+        },
+        {
+          "titulo": "Deep Purple - Burn",
+          "url": "https://www.youtube.com/watch?v=t4fDCwDiWJQ"
+        },
+        {
+          "titulo": "whitesnake - Fool for your loving",
+          "url": "https://www.youtube.com/watch?v=V5LSWvjAc7E"
+        }       
+      ]
+    },
+    {
+      "titulo": "Prog & Power",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Algums sons das bandas que mais curto",
+        "url": "https://www.youtube.com/watch?v=2wKx_SBjHDY"
+      },
+      "videos": [
+        {
+          "titulo": "Dream Theater - This dying soul",
+          "url": "https://www.youtube.com/watch?v=2wKx_SBjHDY"
+        },
+        {
+          "titulo": "Helloween Eagle fly free",
+          "url": "https://www.youtube.com/watch?v=cwBpgobasqI"
+        },
+        {
+          "titulo": "Avantasia reach out for the light",
+          "url": "https://www.youtube.com/watch?v=BCuQKqN8a6w"
+        },
+        {
+          "titulo": "SYMPHONY X - Sea of Lies",
+          "url": "https://www.youtube.com/watch?v=xhdHYTvG3pI"
+        }, 
+        {
+          "titulo": "Angra - Nothing to Say",
+          "url": "https://www.youtube.com/watch?v=Hy_WR43iuQI"
+        }
+      ]
+    },
+    {
+      "titulo": "ANOS 90",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Essa não podia faltar",
+        "url": "https://www.youtube.com/watch?v=FjohnEnCJ6I"
+      },
+      "videos": [
+        {
+          "titulo": "Stone Temple Pilots - Interstate love song",
+          "url": "https://www.youtube.com/watch?v=FjohnEnCJ6I"
+        },
+        {
+          "titulo": "Red Hot Chili Peppers -  my friends",
+          "url": "https://www.youtube.com/watch?v=0kT5w27YxyI"
+        },
+        {
+          "titulo": "Pearl jam - Rearviewmirror ",
+          "url": "https://www.youtube.com/watch?v=Bt9_SgakI1o"
+        },
+        {
+          "titulo": "Screaming Trees - nearly lost you",
+          "url": "https://www.youtube.com/watch?v=YpkJ6WBOA5M"
+        }
+      ]
+    },
+    {
+      "titulo": "Trash f*** Metal Songs",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Megadeth - tornado of souls",
+          "url": "https://www.youtube.com/watch?v=4Pz_FisOVqk"
+        },
+        {
+          "titulo": "kreator - phobia",
+          "url": "https://www.youtube.com/watch?v=aTS5tv7VJTk"
+        },
+        {
+          "titulo": "Sepultura - Arise",
+          "url": "https://www.youtube.com/watch?v=kX9fkoaLyME"
+        },
+        {
+          "titulo": "Anthrax - only",
+          "url": "https://www.youtube.com/watch?v=PqzBpQMH0kY"
+        }
+      ]
+    },
+    {
+      "titulo": "Recomendado pela Dri",
+      "cor": "red",
+      "link_extra": {
+        "text": "O que esta rolando na playlist da gatinha ",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Red Hot Chili Peppers - Sick Love",
+          "url": "https://www.youtube.com/watch?v=I2XfVml6o24"
+        },
+        {
+          "titulo": "The Runaways - Cherry Bomb",
+          "url": "https://www.youtube.com/watch?v=_EBvXpjudf8"
+        },
+        {
+          "titulo": "Eddie Vedder - Hard Sun",
+          "url": "https://www.youtube.com/watch?v=Ez8b2VHjVB0"
+        },
+        {
+          "titulo": "Heart - Barracuda",
+          "url": "https://www.youtube.com/watch?v=PeMvMNpvB5M"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Madame Satã",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "De leve :)",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Smiths - this charming man",
+          "url": "https://www.youtube.com/watch?v=_2s9ke-pKWw"
+        },
+        {
+          "titulo": "The cure - Friday i'm in love",
+          "url": "https://www.youtube.com/watch?v=mGgMZpGYiy8"
+        },
+        {
+          "titulo": "Placebo - Every you every me",
+          "url": "https://www.youtube.com/watch?v=OMaycNcPsHI"
+        },
+        {
+          "titulo": "Legião Urbana - Tempo Perdido",
+          "url": "https://www.youtube.com/watch?v=2hr7Uqu6G80"
+        },
+        {
+          "titulo": "Marilyn Manson - Antichrist Superstar",
+          "url": "https://www.youtube.com/watch?v=d9WDCEdcKlo"
+        }
+      ]
+    }
+  ]
+}
